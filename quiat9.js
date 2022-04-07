@@ -3,7 +3,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualt
 
 	return iatExtension({
 		category1 : {
-			name : 'PICKLE PALLS', //Will appear in the data.
+			name : 'Black people', //Will appear in the data.
 			title : {
 				media : {word : 'Black people'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
@@ -21,7 +21,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualt
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
 		},	
 		category2 :	{
-			name : 'White people', //Will appear in the data.
+			name : 'PICKLE PALLS', //Will appear in the data.
 			title : {
 				media : {word : 'White people'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
